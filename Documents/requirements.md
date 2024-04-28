@@ -7,7 +7,8 @@ As a user, I expect my credentials used to access the system to be encrypted sec
 1. As a user, I expect to see a file "password.txt" containing my username, and password.
 2. As a user, I expect to see an encrypted file "password.enc.txt" to make hash format
 3. As a user, I expect to store my credentials in mongoDB using mongoose.
-   System Authorization:
+
+System Authorization:
 
 As a user, I expect the system to authorize my credentials correctly so that I can successfully log in the system:
 As a user, I expect the system to authorize my credentials/ return TRUE if:
