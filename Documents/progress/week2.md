@@ -1,8 +1,14 @@
 # Week 2
+
 ### LoC:
-0 lines
+
+78 lines
+
 ### Burndown Rate:
-0%
+
+100%
+
 ### Test coverage
-0/_ unit tests complete
+
+0/\_ unit tests complete
 0/1 acceptance tests complete
